@@ -2,7 +2,7 @@
 <h1> Project Proposal  </h1>
  
 ## Problem statement:
-Of the three largest sectors affected (positively or negatively) by customer evaluation and comments is the restaurant sector, where people care about what is mentioned in the comments in terms of food quality, location and service provided. In this project, we will analyze the comments and determine whether the restaurant was good or not without the need to read the comments and know the most important dishes as soon as possible.
+Of the three largest sectors affected (positively or negatively) by customer evaluation and comments is the restaurant sector, where people care about what is mentioned in the comments in terms of food quality, location and service provided. In this project, we will analyze the comments and determine whether the restaurant was good or not without the need to read the comments as soon as possible.
 
 ## Data Description:
 The dataset is about restaurants reviews, it will be scraped from the Google Map site by using the API.
