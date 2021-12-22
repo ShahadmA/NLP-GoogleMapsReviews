@@ -24,7 +24,7 @@
   
   <tr>
     <td>Python program language </td>
-    <td>Panda , statsmodels</td>
+    <td>Panda , NLP</td>
   </tr>
   <tr>
     <td>Jupiter Notebook</td>
@@ -32,10 +32,9 @@
   </tr>
   <tr>
     <td>Spyder</td>
-    <td>MatPlotLib , spotipyer , request</td>
+    <td>MatPlotLib  </td>
   </tr>
     <tr>
-    <td>Postman</td>
     <td>seaborn , sklean </td>
   </tr>
 
