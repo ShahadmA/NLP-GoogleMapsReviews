@@ -2,6 +2,7 @@
 <h1> Project Proposal  </h1>
  
 ## Problem statement:
+Many people are interested in reading reviews on restaurants before visiting them, as this will take time and effort. In this project we will build a model for analyzing sentiment on restaurant Arabic reviews.
 
 ## Data Description:
 The dataset is about restaurants reviews, it will be scraped from the Google Map site by using the API.
