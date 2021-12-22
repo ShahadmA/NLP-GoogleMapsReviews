@@ -40,7 +40,7 @@ The dataset is about restaurants reviews, it will be scraped from the Google Map
 
 
 # MVP Goal:
-
+* Building a system using artificial intelligence capable of analyzing sentiment on restaurant Arabic reviews in Google Maps.
 
 
 
