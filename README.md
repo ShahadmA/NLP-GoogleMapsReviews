@@ -45,4 +45,5 @@ The dataset is about restaurants reviews, it will be scraped from the Google Map
 
 
 BY:
-Shahad Almutairi - Sahar Alharthi - Ghaida Alaqeel
+Shahad Almutairi - Sahar Alharthi - Ghaida Alaqeel.
+Instructor: Mejdal Alqahtani.
