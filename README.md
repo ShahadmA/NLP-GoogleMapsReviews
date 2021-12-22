@@ -3,6 +3,7 @@
  
 ## Problem statement:
 Many people are interested in reading reviews on restaurants before visiting them, as this will take time and effort. In this project we will build a model for analyzing sentiment on restaurant Arabic reviews.
+Of the three largest sectors affected (positively or negatively) by customer evaluation and comments is the restaurant sector, where people care about what is mentioned in the comments in terms of food quality, location and service provided. In this project, we will analyze the comments and determine whether the restaurant was good or not without the need to read the comments and know the most important dishes as soon as possible.
 
 ## Data Description:
 The dataset is about restaurants reviews, it will be scraped from the Google Map site by using the API.
