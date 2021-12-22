@@ -3,8 +3,8 @@
  
 # Problem statement:
 
-# Data:
-The dataset used will be scraped from the Google Map site by using the API.
+# Data Description:
+The dataset is about restaurants reviews, it will be scraped from the Google Map site by using the API.
  
 
 
