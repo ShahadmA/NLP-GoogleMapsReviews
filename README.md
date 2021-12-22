@@ -28,16 +28,13 @@
   </tr>
   <tr>
     <td>Jupiter Notebook</td>
-    <td>NumPy , API </td>
+    <td>NumPy , seaborn,sklean </td>
   </tr>
   <tr>
-    <td>Spyder</td>
+    <td>API</td>
     <td>MatPlotLib  </td>
   </tr>
-    <tr>
-    <td>seaborn , sklean </td>
-  </tr>
-
+    
 </table>
 
 
