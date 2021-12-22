@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/93095814/147146554-404c3210-b275-4c76-875a-a912cf9735a8.png" width="400" heigh="400" />
-<img src="https://user-images.githubusercontent.com/93095814/147159022-175976cc-1010-486a-9e3d-9dd9883e9705.png" width="100" heigh="100" />
+<img src="https://user-images.githubusercontent.com/93095814/147159022-175976cc-1010-486a-9e3d-9dd9883e9705.png" width="300" heigh="300" />
 
 
 <h1> Project Proposal  </h1>
