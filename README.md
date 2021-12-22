@@ -1,5 +1,4 @@
-![شعار_الهيئة_السعودية_للبيانات_والذكاء_الاصطناعي_SDAIA svg](https://user-images.githubusercontent.com/93095814/147146554-404c3210-b275-4c76-875a-a912cf9735a8.png)
-
+<img src="https://user-images.githubusercontent.com/93095814/147146554-404c3210-b275-4c76-875a-a912cf9735a8.png" width="400" heigh="400" />
 <h1> Project Proposal  </h1>
  
 # Problem statement:
