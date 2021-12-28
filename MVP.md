@@ -16,6 +16,7 @@
  <h4>  
      <li>  Text cleaning (Remove repeated letter,Correct word,Simplify word, punctuation,stop words ) </li> 
       <li>  lemmatization </li> 
+       <li>  choice best K for our data </li> 
       
 </h4>
 
