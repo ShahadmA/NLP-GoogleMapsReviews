@@ -9,7 +9,7 @@
       
       
  <h3>Data Description</h3>
- <h4> <li> Extracting restaurant comments from Google Maps was made using API</li> </h4>
+ <h4> <li> Extracting restaurant reviews from Google Maps was made using API</li> </h4>
  
  <h3>Pre-processing</h3>
  
