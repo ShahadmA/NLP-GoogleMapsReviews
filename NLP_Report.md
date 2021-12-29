@@ -4,5 +4,5 @@
 
 <h2> Data </h2>
 <p>We used two dataset:</p>
-*The dataset is about english restaurants reviews from kaggle.
-*The dataset is about arabic restaurants reviews, we scraped from the Google Map site by using the API.
+The dataset is about english restaurants reviews from kaggle.
+The dataset is about arabic restaurants reviews, we scraped from the Google Map site by using the API.
