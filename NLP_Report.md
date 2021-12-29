@@ -9,7 +9,7 @@ One of the three largest sectors affected (positively or negatively) by customer
 
 # Data 
 ### We used two dataset:
-* The dataset is about english restaurants reviews from kaggle.
+* The dataset is about english restaurants reviews from the Google Map site by using the API.
 * The dataset is about arabic restaurants reviews, we scraped from the Google Map site by using the API.</p>
 
 ### English dataset:
