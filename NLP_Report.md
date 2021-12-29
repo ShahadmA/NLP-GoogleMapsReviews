@@ -19,8 +19,15 @@ One of the three largest sectors affected (positively or negatively) by customer
 ### Arabic dataset:
 #### Data before NLP:
 
+![arabeforNLP](https://user-images.githubusercontent.com/93095814/147701449-d0a124fc-e103-4774-a3d2-96328ecf6718.png)
+
 
 #### Data After NLP:
+
+
+
+![AfteraraNLP](https://user-images.githubusercontent.com/93095814/147701484-5e6dd840-8b78-43c6-9bc2-b9cb7ad4c7a7.png)
+
 
 # Algorithms
 * Problem Understanding.
