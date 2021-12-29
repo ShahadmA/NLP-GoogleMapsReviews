@@ -57,4 +57,4 @@ We choose Latent Dirichlet Allocation.
 
 
 # Arabic Restaurants Reviews
-So far, we are working on fine-tuning the grammar to improve work in Modeling.
+We are currently working on the grammar to improve work in Modeling.
