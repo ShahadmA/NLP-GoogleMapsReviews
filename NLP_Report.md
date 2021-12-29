@@ -1,3 +1,8 @@
 <h2> Abstract </h2>
 
 <p>One of the three largest sectors affected (positively or negatively) by customer evaluation and comments is the restaurant sector, and the influence of Google Map - as an application or a browser - is increasing significantly on investors in restaurants or cafes day after day, as Google Map is one of the most important means on which it depends. The public can choose the places for their visits to the restaurant or cafe, and try the food and drinks it offers, as people are interested in what is mentioned in the comments in terms of the quality of the food, the place and the service provided. In this project, One of the three largest sectors affected (positively or negatively) by customer evaluation and comments is the restaurant sector, and the influence of Google Map - as an application or a browser - is increasing significantly on investors in restaurants or cafes day after day, as Google Map is one of the most important means on which it depends. The public can choose the places for their visits to the restaurant or cafe, and try the food and drinks it offers, as people are interested in what is mentioned in the comments in terms of the quality of the food, the place and the service provided. In this project, we will analyze the comments and determine whether the restaurant was good or not without having to read the comments as soon as possible. </p>
+
+<h2> Data </h2>
+<p>We used two dataset:</p>
+*The dataset is about english restaurants reviews from kaggle.
+*The dataset is about arabic restaurants reviews, we scraped from the Google Map site by using the API.
