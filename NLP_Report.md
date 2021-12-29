@@ -6,3 +6,38 @@ One of the three largest sectors affected (positively or negatively) by customer
 ### We used two dataset:
 * The dataset is about english restaurants reviews from kaggle.
 * The dataset is about arabic restaurants reviews, we scraped from the Google Map site by using the API.</p>
+
+### English dataset:
+#### Data before NLP:
+
+
+#### Data After NLP:
+
+
+### Arabic dataset:
+#### Data before NLP:
+
+
+#### Data After NLP:
+
+# Algorithms
+* Problem Understanding.
+* Dataset Cleaning: unimportant columns - duplicated.
+* NLP Preprocessing: Convert to lowercase - Remove punctuation - Remove Stopword - Lemmatizer - Remove Emoji - Construct document-term matrix.
+* Unsupervised learning (clustering - topic modeling).
+* EDA.
+
+# Tools
+* Technologies: Python program language - Jupiter Notebook.
+* Libraries: Panda - statsmodels - matplotlib - NumPy - sklearn - WordCloud - NLTK.
+
+# Models
+* LSA
+* NMF
+* LDA
+* KMeans
+
+We choose Latent Dirichlet Allocation.
+
+# Communication
+
