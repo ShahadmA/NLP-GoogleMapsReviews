@@ -33,7 +33,7 @@ One of the three largest sectors affected (positively or negatively) by customer
 
 ![AfteraraNLP](https://user-images.githubusercontent.com/93095814/147701484-5e6dd840-8b78-43c6-9bc2-b9cb7ad4c7a7.png)
 
-
+# For Eglish Restaurants Reviews 
 # Algorithms
 * Problem Understanding.
 * Dataset Cleaning: unimportant columns - duplicated.
@@ -55,3 +55,6 @@ We choose Latent Dirichlet Allocation.
 
 # Communication
 
+
+# Arabic Restaurants Reviews
+So far, we are working on fine-tuning the grammar to improve work in Modeling.
