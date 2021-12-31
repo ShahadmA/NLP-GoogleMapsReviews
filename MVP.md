@@ -20,8 +20,8 @@
  word cloud for Positive reviews:
  
  
-      ![postNew](https://user-images.githubusercontent.com/93095814/147817871-4ee64548-ba2b-4ad6-a95b-9ca190511f57.png)
-
+<img src="https://user-images.githubusercontent.com/93095814/147817871-4ee64548-ba2b-4ad6-a95b-9ca190511f57.png" width="400" heigh="400" /> 
+ 
 </h4>
 
      
