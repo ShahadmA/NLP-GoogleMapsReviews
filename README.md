@@ -49,4 +49,4 @@ The dataset is about restaurants reviews, it will be scraped from the Google Map
 ### Team members:
 Shahad Almutairi - Sahar Alharthi - Ghaida Alaqeel.
 ### Instructor:
-Mejdal Alqahtani.
+Dr.Mejdal Alqahtani.
