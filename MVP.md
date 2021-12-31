@@ -1,7 +1,7 @@
 <h1> MVP    </h1>
 
 <h3>MVP Goal </h3>
-<h4>in this project, building a system using artificial intelligence capable of analyzing sentiment on restaurant Arabic reviews in Google Maps.</h4>
+<h4>in this project, building a system using artificial intelligence capable of analyzing sentiment on restaurant reviews in Google Maps.</h4>
  
       
       
@@ -14,10 +14,14 @@
  <h3>Pre-processing</h3>
  
  <h4>  
-     <li>  Text cleaning (Remove repeated letter,Correct word,Simplify word, punctuation,stop words ) </li> 
-      <li>  lemmatization </li> 
-       <li>  choice best K for our data </li> 
-      
+     <li>  Text cleaning (Converting text to lowercase,Remove punctuation, Remove Stopword, Lemmatizer) </li> 
+       <li>  Topic Modeling </li> 
+ 
+ word cloud for Positive reviews:
+ 
+ 
+      ![postNew](https://user-images.githubusercontent.com/93095814/147817871-4ee64548-ba2b-4ad6-a95b-9ca190511f57.png)
+
 </h4>
 
      
