@@ -55,6 +55,13 @@ We choose Latent Dirichlet Allocation.
 
 # Communication
 
+![postNew](https://user-images.githubusercontent.com/93095814/147819221-8a718b18-5567-4edf-858a-53f74fb1fd75.png)
+
+
+![Prediction1](https://user-images.githubusercontent.com/93095814/147819241-4d77ed9b-3ed3-45e9-933e-a5eb070a3f1a.png)
+
+![prediction2](https://user-images.githubusercontent.com/93095814/147819252-310447e1-95fd-4a37-98a1-dec7143f5100.png)
+
 
 # Arabic Restaurants Reviews
 We are currently working on the grammar to improve work in Modeling.
