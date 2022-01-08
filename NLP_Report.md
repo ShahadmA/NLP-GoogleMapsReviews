@@ -59,7 +59,7 @@ We choose Latent Dirichlet Allocation.
 
 # Communication
 
-![postNew](https://user-images.githubusercontent.com/93095814/147819221-8a718b18-5567-4edf-858a-53f74fb1fd75.png)
+![newpiv](https://user-images.githubusercontent.com/93095814/148649024-028aeb28-4eac-46ae-9497-b7f23c415807.png)
 
 
 ![Prediction1](https://user-images.githubusercontent.com/93095814/147819241-4d77ed9b-3ed3-45e9-933e-a5eb070a3f1a.png)
