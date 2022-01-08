@@ -15,10 +15,14 @@ One of the three largest sectors affected (positively or negatively) by customer
 ### English dataset:
 #### Data before NLP:
 
-![قبل الان](https://user-images.githubusercontent.com/93095814/147701216-a1f76971-e29f-4279-862a-2939c844b958.png)
+
+![databefor](https://user-images.githubusercontent.com/93095814/148648972-a9626fe8-6414-460f-a251-14604cc4f906.png)
 
 #### Data After NLP:
-![بعد الان](https://user-images.githubusercontent.com/93095814/147701219-d19038d9-c9a7-4202-b506-b35272283cda.png)
+
+
+![dataafter](https://user-images.githubusercontent.com/93095814/148648986-ed294893-e720-4c02-9cda-6f23baa21402.png)
+
 
 
 ### Arabic dataset:
