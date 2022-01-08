@@ -1,7 +1,7 @@
 <h1> MVP    </h1>
 
 <h3>MVP Goal </h3>
-<h4>in this project, building a system using artificial intelligence capable of analyzing sentiment on restaurant reviews in Google Maps.</h4>
+<h4>In this project, building a system using artificial intelligence capable of analyzing sentiment on restaurant reviews in Google Maps.</h4>
  
       
       
