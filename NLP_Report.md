@@ -55,7 +55,7 @@ One of the three largest sectors affected (positively or negatively) by customer
 * LDA
 * KMeans
 
-We choose Latent Dirichlet Allocation.
+We choose KMeans.
 
 # Communication
 
